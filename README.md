@@ -17,7 +17,7 @@ Agregador de links usado como cartão de visitas.
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="" width="100%">
+  <img alt="projeto Business Card" src="" width="100%">
 </p>
 
 ## 🚀 Tecnologias
