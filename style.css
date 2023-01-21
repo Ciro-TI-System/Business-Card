@@ -4,3 +4,8 @@ body {
   background-position: top center;
   background-size: cover;
 }
+
+#container {
+  width: 360px;
+  height: 712px;
+}
