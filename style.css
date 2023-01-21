@@ -7,6 +7,9 @@ body {
 
 #container {
   width: 360px;
-  height: 712px;
   margin: auto;
+}
+
+#profile img {
+  width: 112px;
 }
