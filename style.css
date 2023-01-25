@@ -56,4 +56,11 @@ ul li a {
   -webkit-backdrop-filter: blur(4px);
   text-decoration: none;
   font-weight: 500;
+  transition: background 0.2s;
+}
+
+/* pseudo-selector */
+ul li a:hover {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1.5px solid white;
 }
