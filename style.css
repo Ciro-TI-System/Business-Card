@@ -44,7 +44,7 @@ ul {
   gap: 16px;
 }
 
-ul li {
+ul li a {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -54,4 +54,6 @@ ul li {
   border-radius: 8px;
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
+  text-decoration: none;
+  font-weight: 500;
 }
