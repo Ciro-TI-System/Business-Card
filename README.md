@@ -18,7 +18,8 @@ Agregador de links usado como cartão de visitas.
 <br>
 
 <p align="center">
-  <img alt="projeto Business Card" src="" width="100%">
+  <img alt="projeto Business Card (light-mode)" src="https://github.com/Ciro-TI-System/BusinessCard/blob/ConditionalLogic/assets/Business-Card%20(light-mode).jpg" width="100%">
+  <img alt="projeto Business Card (dark-mode)" src="https://github.com/Ciro-TI-System/BusinessCard/blob/ConditionalLogic/assets/Business-Card%20(dark-mode).jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
